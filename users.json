@@ -1,1 +1,25 @@
-
+{
+  "admin": [
+    {
+      "username": "sultan",
+      "password": "1", 
+      "expiry": "2025-12-31",
+      "subscription": "aimkillapk",
+      "device_id": ""
+    },
+    {
+      "username": "user2",
+      "password": "$2y$12$lmnopqrstuv9876543210lmnopqrstuv9876543210lmnopqrstuv", 
+      "expiry": "2025-11-30",
+      "subscription": "tester",
+      "device_id": ""
+    },
+    {
+      "username": "user3",
+      "password": "$2y$12$zyxwvutsrqponmlkjihgzyxwvutsrqponmlkjihgzyxwvutsrqponm", 
+      "expiry": "2026-01-15",
+      "subscription": "owner",
+      "device_id": ""
+    }
+  ]
+}
